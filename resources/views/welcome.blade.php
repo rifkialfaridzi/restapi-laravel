@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Halu ha
+                    Laravel FULL VERSION 6.0 LTS
                 </div>
 
                 <div class="links">
