@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel FULL VERSION 6.0 LTS
+                    Laravel FULL VERSION 6.0 LTS STABIL
                 </div>
 
                 <div class="links">
