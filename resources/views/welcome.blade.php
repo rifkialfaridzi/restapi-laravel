@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel FULL VERSION 6.0 LTS STABIL
+                    FITUR TRANSAKSI
                 </div>
 
                 <div class="links">
